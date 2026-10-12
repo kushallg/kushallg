@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @kushallg
-- 👀 I'm interested in distributed systems and building technology that makes a real impact on people's lives
+- 👀 I'm interested in venture, robotics and distributed systems along with building technology that makes a real impact on people's lives
 
 
 <!---
